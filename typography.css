@@ -1,0 +1,50 @@
+﻿
+body {
+	background-color: #EBFFEB;
+                	
+	}
+	
+	h1 {
+        text-align:center;
+	background-color: #EBFFEB;
+        border-width: 20px;
+        border-style: outset;
+        border-color: #0000CC;
+	font-style: italic;
+	}
+
+        #picture {
+       	float:left;
+	width: 170px;
+       	}
+        
+
+       
+
+	#p1 {
+       	margin-top: 20px;
+	font-family:"Times New Roman", serif;
+	font-size:120%;
+	color:blue; margin:1.2em;
+
+
+        ul {
+        margin-left:140px;
+	margin-top:25px;
+	text-decoration: underline;
+        }
+       
+        #p2 {
+        text-align: left;
+	text-decoration: underline;
+        }
+
+	a:link {
+        color: blue;
+        text-decoration: none;
+	}    
+        
+        a:hover {
+        color: blue;
+        font-style: italic;
+        }
