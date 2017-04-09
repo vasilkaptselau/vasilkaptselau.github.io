@@ -1,4 +1,25 @@
-﻿
+﻿ul {
+	list-style-type: none;
+	float: right;
+	margin-right: 5px;
+	margin-top: -250px;
+}
+ul li{
+	margin-bottom: 15px;
+	 border-width: 5px;
+        border-style: outset;
+        border-color: #0000CC;
+		width: 200px;
+		height: 30px;
+		text-align: center;
+		padding-top: 5px;
+}
+ul li a{
+	text-decoration: none;
+}
+#picture{
+	margin-top: -250px;
+}
 body {
 	background-color: #EBFFEB;
                 	
@@ -22,10 +43,11 @@ body {
        
 
 	#p1 {
-       	margin-top: 20px;
+       	margin-top: 0px;
 	font-family:"Times New Roman", serif;
 	font-size:120%;
-	color:blue; margin:1.2em;
+	color:black;
+	/*margin:1.2em;*/
 
 
         ul {
